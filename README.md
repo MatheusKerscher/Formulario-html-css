@@ -16,7 +16,7 @@ Em relação ao projeto inicial eu fiz as seguintes alterações:
 
 ##
 
-Caso deseje ver como ficou a versão final desse site, basta clicar <a target="_blank" href="https://matheuskerscher.github.io/Formulario-html-css/formulario.html">aqui</a>!
+Caso deseje ver como ficou a versão final desse site, basta clicar <a href="https://matheuskerscher.github.io/Formulario-html-css/formulario.html"  target="_blank">aqui</a>!
 
 Estou sempre aberto para receber criticas e sujestões sobre o que devo melhorar no meu código! 
-Caso tenha alguma sugestão me chama no <a target="_blank" href="https://www.linkedin.com/in/matheus-kerscher/">LinkedIn</a> para me contar
+Caso tenha alguma sugestão me chama no <a href="https://www.linkedin.com/in/matheus-kerscher/"  target="_blank">LinkedIn</a> para me contar
